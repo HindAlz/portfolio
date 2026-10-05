@@ -22,7 +22,7 @@ window.portfolioProjects = [
       "Comparing CSP–LDA, EEGNet, ShallowConvNet, and ATCNet within a leave-one-subject-out evaluation design.",
       "Examining per-participant accuracy, balanced accuracy, macro F1, and Cohen’s kappa."
     ],
-    "note": "Public EEG development repository. Code for Mirage, the manuscript submitted to IEEE ICASSP and featured above, is not yet publicly available. This link is not a release of that study code. This public-dataset work is also distinct from the private-data internship archive."
+    "note": "Public EEG development repository. The manuscript submitted to IEEE ICASSP featured above is not yet publicly available. This link is not a release of that study code."
   },
   {
     "id": "vr",
